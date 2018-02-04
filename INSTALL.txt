@@ -1,0 +1,5 @@
+1)git clone https://github.com/cjrisua/vini-cellar.git
+2)sudo npm init -y
+3)sudo npm install -g gulp
+4)sudo npm install gulp browser-sync gulp-sass --save-dev
+5)npm install bootstrap jquery popper.js --save
