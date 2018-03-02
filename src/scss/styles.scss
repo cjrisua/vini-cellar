@@ -3,8 +3,16 @@
 $body-bg: #918d8d;
 
 $theme-colors: (
-    "primary" : #d95700
+    "primary" : #444444
 );
+
+.navbar-toggler{
+    margin-bottom: 5pt;
+}
+
+#wine-lrg-search{
+    min-width: 350px;
+}
 
 //Bootstrap Sass Imnport
 @import "node_modules/bootstrap/scss/bootstrap"
